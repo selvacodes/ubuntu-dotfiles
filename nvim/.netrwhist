@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/selva/.config/nvim'
+let g:netrw_dirhist_2='/Users/selva/.config'
+let g:netrw_dirhist_1='/Users/selva'
+let g:netrw_dirhist_0='/Users/selva/repos'
+let g:netrw_dirhist_9='/Users/selva/repos/misc'
+let g:netrw_dirhist_8='/Users/selva/repos/misc/rust-advent-of-code'
+let g:netrw_dirhist_7='/Users/selva/repos/misc/rust-advent-of-code/initial'
+let g:netrw_dirhist_6='/Users/selva/repos/misc/rust-advent-of-code/initial/src'
+let g:netrw_dirhist_5='/Users/selva/repos/workativ-automate/ui/automate-ui'
+let g:netrw_dirhist_4='/Users/selva/repos/workativ-automate/ui/automate-ui/src'

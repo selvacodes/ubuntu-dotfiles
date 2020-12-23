@@ -1,0 +1,41 @@
+vim
+rename main.ts
+rename main1.ts
+
+rename .ui-env
+w
+mkdir docker
+mkdir
+mkdir cert
+rename 1_db_table_create.sql
+touch 2_load_data.sql
+open_with vim
+rename docker_init
+open_withw
+help
+rename node-red-cognidesk-upper-case
+open_with
+rename sit.cognidesk.io.crt
+rename sit.cognidesk.io.key
+mkdir src
+mkdir dist
+find 
+open_with j
+deleted
+rename Flows
+rename Flow
+rename 
+open_with jk
+mkdir shell
+deletey
+mkdir subscription
+touch subscription.proto
+mv
+open_with 
+mkdir 
+draw_possible_programs 
+mkdir poc
+cut
+search config
+Q
+delete
